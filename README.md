@@ -1,7 +1,19 @@
-# SwiftShare
+<p align="center">
+  <img src="assets/icon.png" alt="SwiftShare icon" width="128" height="128">
+</p>
 
-A lightweight macOS menu-bar utility for **URL shortening** and **temporary file
-sharing** — no Dock icon, no background daemon, no account.
+<h1 align="center">SwiftShare</h1>
+
+<p align="center">
+  A lightweight macOS menu-bar utility for <b>URL shortening</b> and
+  <b>temporary file sharing</b> — no Dock icon, no background daemon, no account.
+</p>
+
+<p align="center">
+  <img alt="Platform" src="https://img.shields.io/badge/macOS-13%2B-black?logo=apple">
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-6.2-F05138?logo=swift&logoColor=white">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
+</p>
 
 It ships in two forms:
 
